@@ -131,5 +131,5 @@ terraform destroy
 
 ## 👤 Author
 
-**Olid Consult**
+**Michael Odartei Lamptey**
 DevOps | SRE | Cloud Infrastructure | GIS/Remote Sensing
