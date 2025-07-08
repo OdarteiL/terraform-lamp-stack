@@ -129,6 +129,8 @@ terraform destroy
 
 ---
 
+## Live App:lamp-app-alb-1639056926.eu-west-1.elb.amazonaws.com
+
 ## 👤 Author
 
 **Michael Odartei Lamptey**
